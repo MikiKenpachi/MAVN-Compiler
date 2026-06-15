@@ -67,3 +67,16 @@ vcpkg_installed/
 # test output & cache
 Testing/
 .cache/
+
+# Visual Studio
+.vs/
+Debug/
+Release/
+x64/
+Win32/
+# Visual Studio korisnička podešavanja
+*.user
+*.suo
+*.vcxproj.user
+*.VC.db
+*.opendb
