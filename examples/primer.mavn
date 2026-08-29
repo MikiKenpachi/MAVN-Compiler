@@ -1,0 +1,7 @@
+_reg r1;
+_reg r2;
+_reg r3;
+_func main;
+	and	r3, r1, r2;
+	or	r3, r1, r2;
+	j	main;
